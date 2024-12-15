@@ -27,26 +27,20 @@ This project demonstrates a simplified version of an **Onion Router**, focusing 
 - **customtkinter**: For enhanced modern UI elements.
 
 ## File Structure
-TOR/
-│
-├── nodes/
-│   ├── entry_node.py
-│   ├── relay_node.py
-│   └── exit_node.py
-│
-├── utils/
-│   ├── encryption_utils.py
-│   ├── key_generator.py
-│   ├── logger.py
-│   └── config.py
-│
-├── gui/
-│   └── router_gui.py
-│
-├── client.py
-├── key_exchange.py
-└── README.md
-
+- **Onion/**
+  - `client.py`
+  - 'key_exchange.py'
+  - **nodes/**
+    - `entry_node.py` 
+    - `relay_node.py` 
+    - `exit_node.py` 
+  - **utils/**
+    - 'encryption_utils.py'
+    - 'key_generator.py'
+    - 'logger.py'
+    - 'config.py'
+  - **gui/**
+    - 'router_gui.py'
 
 ## How to Run the Project
 
