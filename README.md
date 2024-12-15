@@ -111,4 +111,9 @@ Run the router visualization GUI:
 5. Simulation and Debugging of Network Systems
 6. Research and Prototyping
 
+## Contact
+For any questions or suggestions, feel free to contact me:
+- **Email**: sarunshrestha03@gmail.com
+- **GitHub**: sarun2003
+
 ### Project by Sarun Shrestha 
