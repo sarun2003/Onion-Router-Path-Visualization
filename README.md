@@ -53,7 +53,7 @@ This project demonstrates a simplified version of an **Onion Router**, focusing 
 1. Open your terminal.
 2. Navigate to the project folder:
    ```bash
-   cd /path/to/TOR
+   cd /path/to/Onion
 3. Create and activate a virtual environment:
    ```bash
    python3 -m venv venv
