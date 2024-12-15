@@ -52,17 +52,18 @@ This project demonstrates a simplified version of an **Onion Router**, focusing 
 3. Create and activate a virtual environment:
    ```bash
    python3 -m venv venv
-  source venv/bin/activate
+     ```bash
+   source venv/bin/activate
 
 ### Step 2: Install Dependencies
 Run the following command to install all required libraries:
-     ```bash
-     pip install networkx matplotlib customtkinter
+```bash
+pip install networkx matplotlib customtkinter
 
 ### Step 3: Generate Encryption Keys
 Run the key generator script:
-     ```bash
-     python3 utils/key_generator.py
+```bash
+python3 utils/key_generator.py
 
 ### Step 4: Run the Nodes
 1. Start the Exit Node:
@@ -77,13 +78,13 @@ Run the key generator script:
 
 ### Step 5: Run the GUI
 Run the router visualization GUI:
-     ```bash
-     python3 gui/router_gui.py
+```bash
+python3 gui/router_gui.py
 
 ### Step 6: Interact with the Simulation
-In the GUI window:
-  Click "Start Routing" to begin the simulation.
-  Watch the edges highlight dynamically, and observe the real-time status updates.
+**In the GUI window:**
+- Click "Start Routing" to begin the simulation.
+- Watch the edges highlight dynamically, and observe the real-time status updates.
 
 ---
 
