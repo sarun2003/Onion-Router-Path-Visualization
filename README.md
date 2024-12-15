@@ -61,29 +61,23 @@ This project demonstrates a simplified version of an **Onion Router**, focusing 
 
 ### Step 2: Install Dependencies
 Run the following command to install all required libraries:
--    ```bash
-pip install networkx matplotlib customtkinter
+- pip install networkx matplotlib customtkinter
 
 ### Step 3: Generate Encryption Keys
 Run the key generator script:
--    ```bash
-python3 utils/key_generator.py
+- python3 utils/key_generator.py
 
 ### Step 4: Run the Nodes
 1. Start the Exit Node:
--    ```bash
-python3 nodes/exit_node.py
+- python3 nodes/exit_node.py
 2. Start the Relay Node:
--    ```bash
-python3 nodes/relay_node.py
+- python3 nodes/relay_node.py
 3. Start the Entry Node:
--    ```bash
-python3 nodes/entry_node.py
+- python3 nodes/entry_node.py
 
 ### Step 5: Run the GUI
 Run the router visualization GUI:
--    ```bash
-python3 gui/router_gui.py
+- python3 gui/router_gui.py
 
 ### Step 6: Interact with the Simulation
 **In the GUI window:**
