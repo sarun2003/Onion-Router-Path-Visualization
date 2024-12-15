@@ -29,18 +29,23 @@ This project demonstrates a simplified version of an **Onion Router**, focusing 
 ## File Structure
 - **Onion/**
   - `client.py`
-  - 'key_exchange.py'
+  - `key_exchange.py`
+  - `onion_router.log`
+  - `shared_key.key`
   - **nodes/**
     - `entry_node.py` 
     - `relay_node.py` 
     - `exit_node.py` 
   - **utils/**
-    - 'encryption_utils.py'
-    - 'key_generator.py'
-    - 'logger.py'
-    - 'config.py'
+    - `encryption_utils.py`
+    - `key_generator.py`
+    - `logger.py`
+    - `config.py`
+    - `__ini__.py`
+    - `__pycache__`
   - **gui/**
-    - 'router_gui.py'
+    - `router_gui.py`
+  - **venv/**
 
 ## How to Run the Project
 
