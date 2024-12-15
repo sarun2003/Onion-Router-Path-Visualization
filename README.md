@@ -84,6 +84,16 @@ Run the router visualization GUI:
 - Click "Start Routing" to begin the simulation.
 - Watch the edges highlight dynamically, and observe the real-time status updates.
 
----
-
 ## Demo
+- This demo consist of the graph without any data waiting to start. When it starts, it will give you a proper graph with nodes: Client, Entry Node, Relay Node, and Exit Node.
+- The edges will turn red one-by-one to simulate routing.
+- The status label at the top will show real-time updates.
+- A clear visualization of how data/message is routed through intermediate nodes securely.
+- A responsive GUI that highlights routing progress dynamically.
+<img width="784" alt="Screenshot 2024-12-15 at 3 41 27 PM" src="https://github.com/user-attachments/assets/52466e36-b145-4161-8ba7-ea3ad0b24aae" />
+
+## Contributing
+- Contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to add features or improve the project.
+
+
+
