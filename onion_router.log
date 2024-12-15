@@ -1,0 +1,11 @@
+2024-12-14 17:11:27,916 - INFO - Exit node listening...
+2024-12-14 17:13:42,903 - INFO - Relay node listening...
+2024-12-14 17:14:52,118 - INFO - Failed to send message to ('127.0.0.1', 8000): [Errno 61] Connection refused
+2024-12-14 17:15:32,579 - INFO - Entry node listening...
+2024-12-14 17:21:33,420 - INFO - Message sent to ('127.0.0.1', 8000): Hello, Tor Network!
+2024-12-14 17:21:33,422 - INFO - Received from client: Hello, Tor Network!
+2024-12-14 17:21:33,435 - INFO - Forwarded encrypted data to relay node.
+2024-12-14 17:21:33,436 - INFO - Received encrypted data at relay node.
+2024-12-14 17:21:33,436 - INFO - Forwarded encrypted data to exit node.
+2024-12-14 17:21:33,436 - INFO - Received encrypted data at exit node.
+2024-12-14 17:21:33,439 - INFO - Decrypted data: Hello, Tor Network!
